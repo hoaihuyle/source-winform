@@ -1,0 +1,12 @@
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\DAL\bin\Debug\DAL.dll
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\DAL\bin\Debug\DAL.pdb
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\DAL\obj\Debug\DAL.dll
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QUANLYBANGIAY\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QUANLYBANGIAY\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QUANLYBANGIAY\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\QUANLYBANGIAY\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QUANLYBANGIAY\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Downloads\QUANLYBANGIAY\DAL\obj\Debug\DAL.pdb

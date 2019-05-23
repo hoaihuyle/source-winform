@@ -1,0 +1,17 @@
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\bin\Debug\BLL.dll
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\bin\Debug\BLL.pdb
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\bin\Debug\DAL.dll
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\bin\Debug\DAL.pdb
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\obj\Debug\BLL.dll
+F:\bài tập lập trình ứng dụng\QUANLYBANGIAY\BLL\obj\Debug\BLL.pdb
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\bin\Debug\BLL.dll
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\bin\Debug\BLL.pdb
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\bin\Debug\DAL.dll
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\bin\Debug\DAL.pdb
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\obj\Debug\BLL.dll
+C:\Users\DELL\Downloads\QUANLYBANGIAY\BLL\obj\Debug\BLL.pdb
